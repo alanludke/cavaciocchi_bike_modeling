@@ -20,11 +20,25 @@ Você deverá usar o software Blender para realizar a modelagem desta bicicleta.
 Qual o nível de realismo?
 Nós vamos modelar a bicicleta do inventor Enio Cavaciocchi para que dois conjuntos de requisitos sejam atingidos:
 
-Funcionalidade:
+### **Funcionalidade:**
 1. A suspensão deve funcionar, significando que a modelagem tanto das partes rígidas da balança quanto do mecanismo de amortecimento com mola deve funcionar e ser realista;
-1.1 Uma seção do quadro deve ser transparente para você enxergar o mecanismo funcionando;
-1.2 As rodas devem girar e ser construídas utilizando raios e aros, o guidon deve controlar o garfo;
-1.3 O mecanismo de transmissão deve operar, significando que a corrente da bicicleta deve estar modelada em detalhes e deve funcionar.
-2. Aparência:
-2.1 Tanto quadro quanto selim, quanto as partes cromadas e partes de aço devem utilizar texturas realistas;
-2.2 Os pneus devem utilizar uma estrutura 3D realista, representando pneus de bicicleta, com texturas de borracha associadas.
+2. Uma seção do quadro deve ser transparente para você enxergar o mecanismo funcionando;
+3. As rodas devem girar e ser construídas utilizando raios e aros, o guidon deve controlar o garfo;
+4. O mecanismo de transmissão deve operar, significando que a corrente da bicicleta deve estar modelada em detalhes e deve funcionar.
+
+### Aparência:
+1. Tanto quadro quanto selim, quanto as partes cromadas e partes de aço devem utilizar texturas realistas;
+2. Os pneus devem utilizar uma estrutura 3D realista, representando pneus de bicicleta, com texturas de borracha associadas.
+
+## **O que deve ser entregue?**
+Você vai entregar um arquivo .zip contendo:
+
+- Os fontes do projeto em Blender:
+- Com todas as texturas;
+- Configurado para carregar tudo de uma única pasta;
+- O arquivo .blend tem de poder ser carregado sem nenhuma configuração adicional e encontrar e carregar todas as texturas.
+
+Um video mostrando:
+- Parte de seu processo de modelagem (captura de video da tela do computador).;
+- Uma animação da bicicleta, mostrando as funcionalidades da supensão e da corrente,  utilizando recursos de geração de video animado do Blender (não use captura de tela);
+- Edite tudo em um único video.
